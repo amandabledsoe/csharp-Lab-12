@@ -1,0 +1,13 @@
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.exe
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.deps.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.runtimeconfig.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.runtimeconfig.dev.json
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.dll
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\bin\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.pdb
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.csprojAssemblyReference.cache
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.csproj.CoreCompileInputs.cache
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.AssemblyInfoInputs.cache
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.AssemblyInfo.cs
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.dll
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.pdb
+C:\Users\xando\OneDrive\Desktop\Grand Circus Projects\LABS\Lab Attempts\Begin Blockbuster Lab 11\Begin Blockbuster Lab 11\obj\Debug\netcoreapp3.1\Begin Blockbuster Lab 11.genruntimeconfig.cache

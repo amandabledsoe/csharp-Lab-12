@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Begin Blockbuster Lab 11", "Begin Blockbuster Lab 11\Begin Blockbuster Lab 11.csproj", "{C076DB82-9721-424C-AA63-5FEDB9D80203}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C076DB82-9721-424C-AA63-5FEDB9D80203}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C076DB82-9721-424C-AA63-5FEDB9D80203}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C076DB82-9721-424C-AA63-5FEDB9D80203}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C076DB82-9721-424C-AA63-5FEDB9D80203}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {425726F4-CD41-4FFB-A1FC-C83F4B8014E1}
+	EndGlobalSection
+EndGlobal
